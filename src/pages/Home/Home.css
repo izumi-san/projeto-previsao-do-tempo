@@ -1,0 +1,9 @@
+.background-image {
+  background-image: url('./../../../public/DreamShaper_v7_lofi_style_image_of_sunny_day_in_a_city_0.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.5; /* Defina a opacidade desejada (0 a 1) */
+	height: 100vh;
+	max-width: 1024px;
+	margin: auto;
+}
