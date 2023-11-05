@@ -2,10 +2,16 @@
   max-width: 1024px;
   margin: auto;
 }
+
+.home-page-conatiner__title {
+  margin-bottom: 50px;
+}
+
 .background-image {
+  min-width: 1024px;
   z-index: -1;
   background-image: url('./../../../public/sunny-day.jpg');
-  background-position: center;
+  background-position: top;
   background-repeat: no-repeat;
   background-size: 100%;
   opacity: 0.7; /* Defina a opacidade desejada (0 a 1) */

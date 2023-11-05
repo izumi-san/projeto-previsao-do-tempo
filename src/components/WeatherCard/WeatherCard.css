@@ -1,9 +1,13 @@
-.weather-card-container {
+.weather-card__container {
 	border: 6px solid #4d4d50;
-	border-radius: 12px;
-	background-color: #9394b4;
-	max-width: 350px;
-	height: 500px;
+	background-color: #fefefe;
+	max-width: 250px;
+	height: 360px;
 	margin-top: 6	0px;
 	margin-inline: auto;
+}
+
+.weather-card__img {
+	height: 40%;
+	border-radius: 12px;
 }

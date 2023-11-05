@@ -1,3 +1,4 @@
+import React from "react";
 import WeatherCard from "../../components/WeatherCard";
 
 import "./Home.css"
